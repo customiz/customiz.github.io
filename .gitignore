@@ -29,7 +29,8 @@ yarn-error.log*
 
 # vercel
 .vercel
-
+gh-pages
+gh-pages.pub
 # typescript
 *.tsbuildinfo
 next-env.d.ts

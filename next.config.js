@@ -11,6 +11,11 @@ const nextConfig = {
   experimental: {
     serverActions: true,
   },
+  reactStrictMode: true,
+
+ // Add basePath
+  basePath: '/github-pages',
+
 };
 
 module.exports = nextConfig;
